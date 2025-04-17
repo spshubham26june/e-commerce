@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/e-commerce/static/css/main.c4520e49.css",
-    "main.js": "/e-commerce/static/js/main.571b5da1.js",
+    "main.js": "/e-commerce/static/js/main.ab5d077c.js",
     "static/media/trendpatil_logo.png": "/e-commerce/static/media/trendpatil_logo.b8a681cc6b95e2e9d284.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/e-commerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/main.png": "/e-commerce/static/media/main.e5993681861f1770c6c1.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/shopping-cart.png": "/e-commerce/static/media/shopping-cart.1589f603f1a0765175ef.png",
     "static/media/profile.png": "/e-commerce/static/media/profile.70fd8d0a4b7b6c937cd8.png",
     "index.html": "/e-commerce/index.html",
     "main.c4520e49.css.map": "/e-commerce/static/css/main.c4520e49.css.map",
-    "main.571b5da1.js.map": "/e-commerce/static/js/main.571b5da1.js.map"
+    "main.ab5d077c.js.map": "/e-commerce/static/js/main.ab5d077c.js.map"
   },
   "entrypoints": [
     "static/css/main.c4520e49.css",
-    "static/js/main.571b5da1.js"
+    "static/js/main.ab5d077c.js"
   ]
 }
